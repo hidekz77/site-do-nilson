@@ -69,8 +69,8 @@ body {
 }
 
 .small-card img {
-    width: 100%;
-    height: 100%;
+    width: 232px;
+    height: 131px;
     object-fit: cover;
 }
 
@@ -100,8 +100,8 @@ body {
 }
 
 .character-card img {
-    width: 100%;
-    height: 100%;
+    width: 399px;
+    height: 451px;
     object-fit: cover;
     transition: transform 0.3s ease;
 }
