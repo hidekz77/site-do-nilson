@@ -78,7 +78,6 @@ body {
     display: flex;
     justify-content: center;
     gap: 30px;
-    flex-wrap: wrap;
 }
 
 /* .character-card {
@@ -103,7 +102,6 @@ body {
     width: 399px;
     height: 451px;
     object-fit: cover;
-    transition: transform 0.3s ease;
 }
 
 .character-card:hover img {
